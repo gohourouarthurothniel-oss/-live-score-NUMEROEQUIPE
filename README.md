@@ -1,0 +1,1 @@
+projet: Live Score, équipe:GKKK , rôles: LEAD, comment ouvrir la page: On clique sur index
